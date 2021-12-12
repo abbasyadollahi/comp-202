@@ -1,3 +1,3 @@
-# comp202
+# COMP 202
 All files related to COMP 202.
 
